@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NoShit - Habits</string>
+    <string name="add_habit">Add new habit</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="habit_name_hint">Name for a habit</string>
 </resources>

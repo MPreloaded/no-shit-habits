@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NoShitHabits">
         <activity
+            android:name=".AddActivity"
+            android:label="@string/add_habit"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
